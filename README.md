@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Task Manager
+
+A modern, customizable task management application built with Next.js and Framer Motion.
+
+## Screenshots
+
+The app features three different themes for a personalized experience:
+
+### Dark Theme (Pink Accents)
+![Dark Theme Preview](/public/images/screen1.png)
+
+### Light Theme
+![Light Theme Preview](/public/images/screen2.png)
+
+### Navy Theme (Blue Accents)
+![Navy Theme Preview](/public/images/screen3.png)
+
+## Features
+
+- Create, prioritize and complete tasks
+- View completed tasks history
+- Smooth animations and transitions
+- Three visual themes (Dark, Light, and Navy)
+- Responsive design for all devices
+- Persistent storage using localStorage
 
 ## Getting Started
 
@@ -18,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load custom fonts.
 
 ## Learn More
 
