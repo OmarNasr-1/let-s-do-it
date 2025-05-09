@@ -7,13 +7,13 @@ A modern, customizable task management application built with Next.js and Framer
 The app features three different themes for a personalized experience:
 
 ### Dark Theme (Pink Accents)
-![Dark Theme Preview](/public/images/screen1.png)
+![Dark Theme Preview](/public/screen1.png)
 
 ### Light Theme
-![Light Theme Preview](/public/images/screen2.png)
+![Light Theme Preview](/public/screen2.png)
 
 ### Navy Theme (Blue Accents)
-![Navy Theme Preview](/public/images/screen3.png)
+![Navy Theme Preview](/public/screen3.png)
 
 ## Features
 
